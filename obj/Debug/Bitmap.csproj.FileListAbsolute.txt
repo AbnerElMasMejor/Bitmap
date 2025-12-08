@@ -1,0 +1,11 @@
+C:\Users\FER\source\repos\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\FER\source\repos\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\FER\source\repos\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.csproj.AssemblyReference.cache
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.Form1.resources
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.cache
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\FER\source\repos\Bitmap\obj\Debug\Bitmap.exe.config
